@@ -6,8 +6,10 @@
   
 
 
-
+<!--
 ### 🔭 Data Analyst Using ML/DL  
+-->
+
   
   
 
@@ -15,7 +17,6 @@
 
 ### ❓ Interests  
 - Recommendation Systems
-- Distribution   
   
 
 
