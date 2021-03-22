@@ -1,16 +1,55 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaebuk&count_bg=%23FF55DB&title_bg=%23555555&icon=&icon_color=%23A44A97&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**Haebuk/Haebuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+## Hi 👋, I'm Jaesung Ryu  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔭 Data Analyst Using ML/DL  
+  
+  
+
+
+
+### ❓ Interests  
+- Recommendation Systems
+- Distribution   
+  
+
+
+
+### 🌱 Study now  
+- [Full Stack DeepLearning 2021](https://fullstackdeeplearning.com/)
+- [Kaggle Study](https://github.com/Haebuk/kagglestudy)
+- [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
+- [Recommendation System](https://github.com/Haebuk/recommendation)
+- (+ some undergraduate course 😂)
+  
+  
+
+<a href="https://linkedin.com/in/jaesung-ryu-50407a206/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/JSRYU9261" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ryujaes" target="_blank">
+<img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/haebuk" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Haebuk" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
