@@ -21,7 +21,7 @@
 
 
 ### 🌱 Study now  
-- [Full Stack DeepLearning 2021](https://fullstackdeeplearning.com/)
+- [Full Stack DeepLearning 2021](https://github.com/Haebuk/FSDL-2021-futureskill)
 - [Kaggle Study](https://github.com/Haebuk/kagglestudy)
 - [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
 - [Recommendation System](https://github.com/Haebuk/recommendation)
