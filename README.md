@@ -25,6 +25,7 @@
 - [Kaggle Study](https://github.com/Haebuk/kagglestudy)
 - [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
 - [Recommendation System](https://github.com/Haebuk/recommendation)
+- [AutoML](https://github.com/Haebuk/AutoML)
 - (+ some undergraduate course 😂)
   
   
