@@ -16,7 +16,7 @@
 
 
 ### ❓ Interests  
-- Recommendation Systems(NLP, Image and Video..) 
+- Recommendation Systems
 - MLops 
 
 
