@@ -21,10 +21,8 @@
 
 
 ### 🌱 Study now  
-- [Full Stack DeepLearning 2021](https://github.com/Haebuk/FSDL-2021-futureskill)
 - [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
 - [Recommendation System](https://github.com/Haebuk/recommendation)
-- [AutoML](https://github.com/Haebuk/AutoML)
 - (+ some undergraduate course 😂)
   
   
