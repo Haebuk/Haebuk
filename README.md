@@ -16,7 +16,7 @@
 
 ### ❓ Interests  
 - Recommendation Systems
-- Natural Language Process
+- Machine Learning
 
 
 
