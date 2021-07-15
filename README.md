@@ -15,7 +15,6 @@
 
 
 ### ❓ Interests  
-- Recommendation Systems
 - Machine Learning
 
 
