@@ -16,14 +16,15 @@
 
 ### ❓ Interests  
 - Machine Learning
+- Deep Learning for Computer Vision
+- Recommendation System
 
 
 
 ### 🌱 Study now  
-- [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
 - [Recommendation System](https://github.com/Haebuk/recommendation)
 - [SQL](https://github.com/Haebuk/sql)
-- (+ some undergraduate course 😂)
+- (+ some undergraduate courses 😂)
   
   
 
