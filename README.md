@@ -23,7 +23,8 @@
 
 ### 🌱 Study now  
 - [Recommendation System](https://github.com/Haebuk/recommendation)
-- [SQL](https://github.com/Haebuk/sql)
+- [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
+<!-- - [SQL](https://github.com/Haebuk/sql) -->
 - (+ some undergraduate courses 😂)
   
   
