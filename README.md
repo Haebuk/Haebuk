@@ -7,11 +7,12 @@
 
 
 <!--
+
+
+### 📝 Resume
+[notion](https://valley-homburg-f2d.notion.site/1-Android-7cf99755d95345ce9f88b36ec59f4cc2)
+  
 -->
-
-  
-  
-
 
 
 ### ❓ Interests  
