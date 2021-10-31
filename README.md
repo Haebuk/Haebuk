@@ -7,11 +7,7 @@
 
 
 <!--
-
-
-### 📝 Resume
-[notion](https://valley-homburg-f2d.notion.site/1-Android-7cf99755d95345ce9f88b36ec59f4cc2)
-  
+ 
 -->
 
 
@@ -28,6 +24,8 @@
 <!-- - [SQL](https://github.com/Haebuk/sql) -->
 - (+ some undergraduate courses 😂)
   
+### 📝 Resume
+[notion](https://valley-homburg-f2d.notion.site/1-Android-7cf99755d95345ce9f88b36ec59f4cc2) 페이지로 연결됩니다.
   
 
 <a href="https://linkedin.com/in/jaesungryu/" target="_blank">
