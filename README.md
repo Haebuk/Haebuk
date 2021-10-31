@@ -25,7 +25,7 @@
 - (+ some undergraduate courses 😂)
   
 ### 📝 Resume
-[notion](https://valley-homburg-f2d.notion.site/1-Android-7cf99755d95345ce9f88b36ec59f4cc2) 페이지로 연결됩니다.
+[notion](https://valley-homburg-f2d.notion.site/Kade-1c0762fa6d7043508420fc878a7db37e) 페이지로 연결됩니다.
   
 
 <a href="https://linkedin.com/in/jaesungryu/" target="_blank">
