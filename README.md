@@ -24,7 +24,7 @@
 <!-- - [SQL](https://github.com/Haebuk/sql) -->
 - (+ some undergraduate courses 😂) -->
   
-### 📝 [Resume](https://valley-homburg-f2d.notion.site/Kade-1c0762fa6d7043508420fc878a7db37e)
+<!-- ### 📝 [Resume](https://valley-homburg-f2d.notion.site/Kade-1c0762fa6d7043508420fc878a7db37e) -->
   
 
 <a href="https://linkedin.com/in/jaesungryu/" target="_blank">
