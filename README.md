@@ -15,6 +15,7 @@
 - Machine Learning
 - Deep Learning for Computer Vision
 - Recommendation System
+- MLOps
 
 
 
@@ -22,7 +23,7 @@
 - [Recommendation System](https://github.com/Haebuk/recommendation)
 - [Algorithms for Coding Test](https://github.com/Haebuk/algorithms)
 <!-- - [SQL](https://github.com/Haebuk/sql) -->
-- (+ some undergraduate courses 😂) -->
+<!-- - (+ some undergraduate courses 😂) --> -->
   
 <!-- ### 📝 [Resume](https://valley-homburg-f2d.notion.site/Kade-1c0762fa6d7043508420fc878a7db37e) -->
   
