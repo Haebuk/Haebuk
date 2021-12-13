@@ -13,8 +13,6 @@
 
 ### ❓ Interests  
 - Machine Learning
-- Deep Learning for Computer Vision
-- Recommendation System
 - MLOps
 
 
