@@ -13,6 +13,7 @@
 
 ### ❓ Interests  
 - Machine Learning
+- Time Series
 - MLOps
 
 
