@@ -2,7 +2,7 @@
 
   
 
-## Hi 👋, I'm Jaesung Ryu  
+## Hi, I'm Jaesung Ryu  
   
 
 
@@ -11,7 +11,7 @@
 -->
 
 
-### ❓ Interests  
+### Interests  
 - Machine Learning
 - Time Series
 - MLOps
