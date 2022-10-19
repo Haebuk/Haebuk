@@ -3,8 +3,7 @@
   
 
 ## Hi, I'm Jaesung Ryu  
-  
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 
 <!--
  
