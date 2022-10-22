@@ -12,7 +12,7 @@
 
 ### Interests  
 - Machine Learning
-- Time Series
+- Data Engineering
 - MLOps
 
 
