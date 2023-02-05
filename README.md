@@ -11,8 +11,9 @@
 
 
 ### Interests  
-- Machine Learning
 - Data Engineering
+- Growth Hacking
+- Machine Learning
 - MLOps
 
 
