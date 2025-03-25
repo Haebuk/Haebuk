@@ -1,22 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaebuk&count_bg=%23FF55DB&title_bg=%23555555&icon=&icon_color=%23A44A97&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
-
-## Hi, I'm Jaesung Ryu  
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
 <!--
- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaebuk&count_bg=%23FF55DB&title_bg=%23555555&icon=&icon_color=%23A44A97&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
 -->
-
-
-### Interests  
-- Data Engineering
-- Growth Hacking
-- Machine Learning
-- MLOps
-
-
 
 <!-- ### 🌱 Study now  
 - [Recommendation System](https://github.com/Haebuk/recommendation)
@@ -27,6 +14,7 @@
 <!-- ### 📝 [Resume](https://valley-homburg-f2d.notion.site/Kade-1c0762fa6d7043508420fc878a7db37e) -->
   
 
+<!--
 <a href="https://linkedin.com/in/jaesungryu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -45,9 +33,11 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 -->  
+<!--
 <a href="https://Haebuk.github.io" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+-->
 
 <!--
 -->  
